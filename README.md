@@ -42,7 +42,7 @@ You can find here a collection of coding challenges from CodeSignal.
 ## Easy
 | #    | Challenge                                                    | Difficulty | Solution                                                     |
 | ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
-| 1    | [<a href=""></a>]| Easy       | [Solution] |
+| 1    | [<a href="https://app.codesignal.com/challenge/h7i7qTRoon4KSekYk">arraySumAdjacentDifference</a>]| Easy       | [Solution] |
 ## Medium
 | #    | Challenge                                                    | Difficulty | Solution                                                     |
 | ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
