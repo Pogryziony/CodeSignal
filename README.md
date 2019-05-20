@@ -11,7 +11,10 @@ You can find here a collection of coding challenges from CodeSignal.
  - [**Arcade**](#Arcade)
     - [Intro](#Intro)
 
-
+ - [**Challenges**](#Challenges)
+    - [Easy](#Easy)
+    - [Medium](#Medium)
+    - [Hard](#Hard)
 
 # <u>Arcade</u>
 
@@ -31,6 +34,20 @@ You can find here a collection of coding challenges from CodeSignal.
 | 10    | [<a href="https://app.codesignal.com/arcade/intro/level-3/JKKuHJknZNj4YGL32">commonCharacterCount</a>]| Easy       | [Solution] |
 | 11    | [<a href="https://app.codesignal.com/arcade/intro/level-3/3AdBC97QNuhF6RwsQ">isLucky</a>]| Easy       | [Solution] |
 | 12    | [<a href="https://app.codesignal.com/arcade/intro/level-3/D6qmdBL2NYz49XHwM">sortByHeight</a>]| Easy       | [Solution] |
-| 13    | [<a href="">soon</a>]| Medium      | [Solution] |
+| 13    | [<a href="">soon</a>]|   Medium    | [Solution] |
 
 
+# <u>Challenges</u>
+
+## Easy
+| #    | Challenge                                                    | Difficulty | Solution                                                     |
+| ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
+| 1    | [<a href=""></a>| Easy       | [Solution] |
+## Medium
+| #    | Challenge                                                    | Difficulty | Solution                                                     |
+| ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
+| 1    | [<a href=""></a>| Medium       | [Solution] |
+## Hard
+| #    | Challenge                                                    | Difficulty | Solution                                                     |
+| ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
+| 1    | [<a href=""></a>| Hard       | [Solution] |
