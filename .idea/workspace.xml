@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c41cf10a-b9ef-40da-9836-063090bd9b1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arcade/adjacentElementsProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/allLongestStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/almostIncreasingSequence" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/commonCharacterCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/isLucky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/makeArrayConsecutive2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/matrixElementsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/shapeArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arcade/sortByHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arcade/add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arcade/centuryFromYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arcade/checkPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,49 +28,31 @@
           <entry key="almostIncreasingSequence" value="1" />
           <entry key="centuryFromYear" value="1" />
           <entry key="checkPalindrome" value="1" />
-          <entry key="java" value="9" />
+          <entry key="java" value="12" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="15" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="almostIncreasingSequence" value="3" />
-          <entry key="java" value="258" />
+          <entry key="java" value="294" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="261" />
+          <entry key="JAVA" value="297" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arcade/centuryFromYear">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arcade/adjacentElementsProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arcade/shapeArea.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,15 +90,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arcade/allLongestStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arcade/commonCharacterCount.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -140,11 +107,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arcade/sortByHeight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arcade/add.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arcade/centuryFromYear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Arcade/checkPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -158,7 +152,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Arcade/checkPalindrome" />
-        <option value="$PROJECT_DIR$/Arcade/add.java" />
         <option value="$PROJECT_DIR$/Arcade/centuryFromYear" />
         <option value="$PROJECT_DIR$/Arcade/adjacentElementsProduct.java" />
         <option value="$PROJECT_DIR$/Arcade/shapeArea.java" />
@@ -169,6 +162,9 @@
         <option value="$PROJECT_DIR$/Arcade/makeArrayConsecutive2.java" />
         <option value="$PROJECT_DIR$/Arcade/matrixElementsSum.java" />
         <option value="$PROJECT_DIR$/Arcade/sortByHeight.java" />
+        <option value="$PROJECT_DIR$/Arcade/add.java" />
+        <option value="$PROJECT_DIR$/Arcade/centuryFromYear.java" />
+        <option value="$PROJECT_DIR$/Arcade/checkPalindrome.java" />
       </list>
     </option>
   </component>
@@ -206,7 +202,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558381320523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558381650234" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
@@ -292,13 +288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arcade/add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arcade/checkPalindrome">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -373,6 +362,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arcade/add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arcade/centuryFromYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arcade/checkPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
