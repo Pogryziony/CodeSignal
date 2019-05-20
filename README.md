@@ -22,7 +22,7 @@ You can find here a collection of coding challenges from CodeSignal.
 
 | #    | Challenge                                                    | Difficulty | Solution                                                     |
 | ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
-| 1    | [<a href="https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa">add</a>| Easy       | [Solution] |
+| 1    | [<a href="https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa">add</a>]| Easy       | [Solution] |
 | 2    | [<a href="https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN">centuryFromYear</a>]| Easy       | [Solution] |
 | 3    | [<a href="https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ">checkPalindrome</a>]| Easy       | [Solution] |
 | 4    | [<a href="https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m">adjacentElementsProduct</a>]| Easy       | [Solution] |
@@ -42,12 +42,12 @@ You can find here a collection of coding challenges from CodeSignal.
 ## Easy
 | #    | Challenge                                                    | Difficulty | Solution                                                     |
 | ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
-| 1    | [<a href=""></a>| Easy       | [Solution] |
+| 1    | [<a href=""></a>]| Easy       | [Solution] |
 ## Medium
 | #    | Challenge                                                    | Difficulty | Solution                                                     |
 | ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
-| 1    | [<a href=""></a>| Medium       | [Solution] |
+| 1    | [<a href=""></a>]| Medium       | [Solution] |
 ## Hard
 | #    | Challenge                                                    | Difficulty | Solution                                                     |
 | ---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
-| 1    | [<a href=""></a>| Hard       | [Solution] |
+| 1    | [<a href=""></a>]| Hard       | [Solution] |
